@@ -1,6 +1,15 @@
-.DS_Store
-npm-debug.log
+# Dependencies
+node_modules/
 
+# Bundler
 .cache/
 dist/
-node_modules/
+
+# Sublime Text
+.phpintel/
+*.sublime-workspace
+
+# System
+.DS_Store
+desktop.ini
+Icon[]

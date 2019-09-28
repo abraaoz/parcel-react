@@ -1,12 +1,18 @@
-# parcel-react
+# React Skeleton
 
-[![Slack](https://slack-the-road-to-learn-react.wieruch.com/badge.svg)](https://slack-the-road-to-learn-react.wieruch.com/)
+**Usage**
+1. Clone this repo
+2. Run `yarn install`
+3. Run `yarn setup "Project Name" git@gitlab.com:company_name/project_name.git`
 
-A minimal React.js boilerplate with [parcel as bundler](https://github.com/parcel-bundler/parcel). Parcel is an alternative web application bundler to Webpack. Read more about it: [Getting started with React and Parcel](https://www.robinwieruch.de/parcel-react-setup/).
+---
 
-## Installation
+**Development**
+```bash
+yarn start
+```
 
-* `git clone git@github.com:rwieruch/parcel-react.git`
-* `cd parcel-react`
-* `npm install`
-* `npm start`
+**Production**
+```bash
+yarn build
+```

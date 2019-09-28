@@ -1,0 +1,21 @@
+{
+  "folders":
+  [
+    {
+      "file_exclude_patterns":
+      [
+        "Icon*",
+        "*.sublime-project",
+        "*.lock"
+      ],
+      "folder_exclude_patterns":
+      [
+        ".cache",
+        ".phpintel",
+        "node_modules",
+        "dist"
+      ],
+      "path": "."
+    }
+  ]
+}
